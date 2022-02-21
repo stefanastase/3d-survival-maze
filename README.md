@@ -13,5 +13,7 @@
 
 ## Controls
 W, A, S, D - Movement
+
 CTRL - Comute from third person to first person
+
 SPACE/MOUSE LEFT - Shoot bullets (works only in first person mode)
