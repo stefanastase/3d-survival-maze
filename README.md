@@ -1,5 +1,5 @@
 # 3d-survival-maze
-3D Survival Maze videogame implemented in C++, using the GFX Framework, a framework based on OpenGL.
+3D survival maze videogame implemented in C++, using the GFX Framework, a framework based on OpenGL.
 
 ## Installation
 1. Download GFX Framework from GitHub (https://github.com/UPB-Graphics/gfx-framework)
